@@ -1,3 +1,7 @@
+---
+layout: post
+title: Your Post Title
+---
 
 ## Contributing
 
